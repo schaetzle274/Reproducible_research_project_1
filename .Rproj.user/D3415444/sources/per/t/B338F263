@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548108918817.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3378695292",
+    "id" : "B338F263",
+    "lastKnownWriteTime" : 1548089169,
+    "last_content_update" : 1548089169,
+    "path" : "~/AI Training/AI Training/AI_course/Reproducible_research_project_1/PA1_Template.Rmd",
+    "project_path" : "PA1_Template.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
