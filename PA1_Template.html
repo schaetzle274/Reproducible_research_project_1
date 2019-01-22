@@ -195,7 +195,7 @@ $(document).ready(function () {
 <pre class="r"><code>library(ggplot2)</code></pre>
 <pre><code>## Warning: package 'ggplot2' was built under R version 3.5.2</code></pre>
 <pre class="r"><code>library(plyr)
-activity &lt;- read.csv(&quot;C:/Users/chris/Documents/AI Training/AI Training/AI_course/Reproducible_research_project_1/Data/repdata_data_activity/activity.csv&quot;)
+activity &lt;- read.csv(&quot;C:/Users/chris/Documents/GitHub/Reproducible_research_project_1/Data/repdata_data_activity/activity.csv&quot;)
 activity$day &lt;- weekdays(as.Date(activity$date))
 activity$DateTime&lt;- as.POSIXct(activity$date, format=&quot;%Y-%m-%d&quot;)
 

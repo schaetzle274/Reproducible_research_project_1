@@ -24,7 +24,7 @@ library(ggplot2)
 
 ```r
 library(plyr)
-activity <- read.csv("C:/Users/chris/Documents/AI Training/AI Training/AI_course/Reproducible_research_project_1/Data/repdata_data_activity/activity.csv")
+activity <- read.csv("C:/Users/chris/Documents/GitHub/Reproducible_research_project_1/Data/repdata_data_activity/activity.csv")
 activity$day <- weekdays(as.Date(activity$date))
 activity$DateTime<- as.POSIXct(activity$date, format="%Y-%m-%d")
 
